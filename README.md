@@ -17,9 +17,17 @@ In this project , I will create a robo advisor for both existing and potentially
 
 [](Chat_Bot_1.mov)
 
+
+https://user-images.githubusercontent.com/78903233/193431314-94363194-90fb-4fb5-99e8-f36e7726ff12.mov
+
+
 ## Enhanced Robo Advisor
 
 [](Chat_Bot_2.mov)
+
+
+
+https://user-images.githubusercontent.com/78903233/193431321-8a521317-11f3-4c5e-a25e-7a933326b6e5.mov
 
 ---
 
